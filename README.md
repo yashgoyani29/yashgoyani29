@@ -1,60 +1,80 @@
-<!-- README.md - GitHub Profile README template -->
-<h1 align="center">🚀 Full-Stack Developer | Python Developer | ML Enthusiast</h1>
+<h1 align="center">Hi 👋, I'm Yash Goyani</h1>
+<h3 align="center">🚀 Full-Stack Developer | Python Developer | Machine Learning Enthusiast | Problem Solver | Passionate About Building Innovative Solutions</h3>
 
 <p align="center">
-  <img alt="Profile" src="https://avatars.githubusercontent.com/YOUR_USERNAME" width="120" style="border-radius:50%"/>
-</p>
-
-<p align="center">
-  <strong>Yash Goyani</strong> · <em>Full-Stack · Python · ML · Problem Solver</em>
+  <a href="https://github.com/yashgoyani29">
+    <img src="https://komarev.com/ghpvc/?username=yashgoyani29&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  </a>
 </p>
 
 ---
 
 ## 🌐 Socials
-<p>
-  <a href="https://discord.gg/YOUR_LINK"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white" /></a>
-  <a href="https://instagram.com/YOUR_USERNAME"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINK"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.youtube.com/channel/YOUR_CHANNEL"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" /></a>
-  <a href="mailto:your-email@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+<p align="center">
+  <a href="https://discord.gg/yashgoyani"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" /></a>
+  <a href="https://instagram.com/yash_goyani_2912"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/yash-goyani-882106291"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
+  <a href="https://youtube.com/@YashGoyani"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" /></a>
+  <a href="mailto:goaniyash06@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
 ## 💻 Tech Stack
+<p align="center">
 
 **Frontend**  
-<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" /> 
-<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" />
-<img alt="Tailwind" src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white" />
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 
 **Backend**  
-<img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
-<img alt="Express" src="https://img.shields.io/badge/Express.js-404D59?logo=express&logoColor=white" />
-<img alt="Django" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" />
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)  
 
 **Databases**  
-<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
-<img alt="MySQL" src="https://img.shields.io/badge/MySQL-003B57?logo=mysql&logoColor=white" />
-<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" />
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)  
 
-**Machine Learning & Data**  
-<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-<img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
-<img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
-<img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white" />
+**Machine Learning & Data Science**  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge) 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
+![Seaborn](https://img.shields.io/badge/Seaborn-2E8B57?style=for-the-badge) 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  
 
----
-
-## 📊 GitHub Stats
-<!-- Replace YOUR_USERNAME -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashgoyani29&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
 
 ---
 
-Thanks for visiting — feel free to connect! ✨
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yashgoyani29&show_icons=true&theme=tokyonight" alt="stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashgoyani29&theme=tokyonight" alt="streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashgoyani29&layout=compact&theme=tokyonight" alt="languages" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yashgoyani29&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
+</p>
+
+
+---
+
+⭐ **From [Mohit Ghadiya](https://github.com/yashgoyani29)**  
+
+<!-- Created with ❤️ using GPRM ( https://gprm.itsvg.in ) -->
