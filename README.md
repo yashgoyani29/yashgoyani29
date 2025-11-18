@@ -75,6 +75,6 @@
 
 ---
 
-⭐ **From [Mohit Ghadiya](https://github.com/yashgoyani29)**  
+⭐ **From [Yash Goyani](https://github.com/yashgoyani29)**  
 
 <!-- Created with ❤️ using GPRM ( https://gprm.itsvg.in ) -->
